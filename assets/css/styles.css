@@ -1,0 +1,16 @@
+/*  link styling */
+
+.link-style li a:hover {
+  color: #82b1ff;
+  text-decoration: none;
+}
+
+.link-style li a:hover:before {
+  opacity: 1.0;
+}
+
+.link-style li a, .link-style li a:before {
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
