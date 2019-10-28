@@ -1,3 +1,7 @@
+.list-tags li a {
+  text-decoration: none!important;
+}
+
 /*  link styling */
 
 .link-style li a:hover {
